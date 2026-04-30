@@ -20,3 +20,5 @@ A browser-based memory game built with HTML, CSS, and JavaScript.
 - CSS  
 - JavaScript (Vanilla)
 
+## Live Demo
+https://bhardwajsunny9670-cell.github.io/Simon---Says-game/
